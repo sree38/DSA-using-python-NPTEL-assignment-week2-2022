@@ -1,5 +1,5 @@
 
-# DSA-using-python-NPTEL-assignment-week2-2022
+# Programming DSA-using-python-NPTEL-assignment-week2-2022
 # One of the following 10 statements generates an error. Which one? (Your answer should be a number between 1 and 10.)
 
 x = [[3,5],"mimsy",2,"borogove",1]  # Statement 1
